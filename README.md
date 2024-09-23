@@ -1,6 +1,6 @@
 # Negotiation Chatbot
 
-This project is a negotiation chatbot built using Flask and the GPT-2 API pretrained model from Hugging Face's Transformers library. The chatbot is designed to negotiate with users based on their offers and provide persuasive responses.
+This project is a negotiation chatbot built using Flask and the pretrained model GPT-2 API from Hugging Face's Transformers library. The chatbot is designed to negotiate with users based on their offers and provide persuasive responses.
 
 ## Features
 
