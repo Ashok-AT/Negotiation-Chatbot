@@ -12,8 +12,8 @@ This project is a negotiation chatbot built using Flask and the pretrained model
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/negotiation-chatbot.git
-   cd negotiation-chatbot
+   git clone https://github.com/Ashok-AT/Negotiation-Chatbot.git
+   cd Negotiation-Chatbot
 
 2. Create a virtual environment (optional but recommended):
    ```bash
