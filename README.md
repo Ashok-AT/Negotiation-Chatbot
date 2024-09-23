@@ -38,4 +38,4 @@ This project is a negotiation chatbot built using Flask and the GPT-2 API pretra
 
 - The bot uses the GPT-2 API from Hugging Face, which is an older pre-trained model and struggles to understand user inputs, leading to irrelevant responses.
 
-- Advanced models like GPT-3, GPT-3.4, GPT-4, and Gemini require paid subscriptions, which I cannot afford.
+- Advanced models like GPT-3, GPT-3.5, GPT-4, and Gemini require paid subscriptions, which I cannot afford.
