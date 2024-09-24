@@ -8,6 +8,8 @@ This project is a Negotiation Chatbot built using Flask and the pretrained model
 - Provides acceptance, counteroffers, or reasons for rejection.
 - Built using Flask and GPT-2.
 
+## Demo - [YouTube](https://youtu.be/tjfqRkSm8EU?feature=shared)
+
 ## Installation
 
 1. Clone the repository:
